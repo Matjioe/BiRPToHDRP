@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b46c2cf1bb9f3344a9a65fa7f4502444
+timeCreated: 1460715187
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 246189
+  packageName: Adventure Game Environment Pack | URP
+  packageVersion: 1.0
+  assetPath: Assets/UnityTechnologies/AdventureGameEnvironment/Materials/FloorCarpetTileRed.mat
+  uploadId: 562967

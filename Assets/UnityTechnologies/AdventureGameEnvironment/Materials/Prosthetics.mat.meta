@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9813b8de5d4bc544f911c5f51f9c714f
+timeCreated: 1461166987
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 246189
+  packageName: Adventure Game Environment Pack | URP
+  packageVersion: 1.0
+  assetPath: Assets/UnityTechnologies/AdventureGameEnvironment/Materials/Prosthetics.mat
+  uploadId: 562967

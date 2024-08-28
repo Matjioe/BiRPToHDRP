@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 80dd585bb058c7c4b9ba7cbf0d95c118
+timeCreated: 1460715187
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 246189
+  packageName: Adventure Game Environment Pack | URP
+  packageVersion: 1.0
+  assetPath: Assets/UnityTechnologies/AdventureGameEnvironment/Materials/Magazines.mat
+  uploadId: 562967
